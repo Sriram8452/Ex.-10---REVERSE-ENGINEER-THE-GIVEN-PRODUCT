@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![model](2.png)
 ### Output:
-
+![model](1.png)
 
 ### Name:
+SRIRAM G
 ### Register Number:
+212222230149
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
